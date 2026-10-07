@@ -1,0 +1,17 @@
+{
+  "name": "elevenlabs-text-to-speech-studio",
+  "version": "1.0.0",
+  "description": "Modern ElevenLabs Text-to-Speech web application with secure backend proxy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "py": "python server.py"
+  },
+  "keywords": ["elevenlabs", "text-to-speech", "tts", "audio", "voice-ai"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
